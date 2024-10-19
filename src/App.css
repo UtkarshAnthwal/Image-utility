@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.image-results img {
+  width: 200px;
+  margin: 10px;
+}
+
+canvas {
+  border: 1px solid black;
+}
